@@ -24,7 +24,6 @@
   <project name="meta-qt5-extra.git" path="layers/meta-qt5-extra" remote="githe" revision="c16ba209a93c3e55f5aef07fbb1d584e228765b3" upstream="rocko"/>
   <project name="meta-qt5.git" path="layers/meta-qt5" remote="githq" revision="180edd66444db330301f22266cac7d588fd48c6a" upstream="rocko"/>
   <project name="meta-toradex-bsp-common.git" path="layers/meta-toradex-bsp-common" remote="tdx" revision="362865913ed40f6cadeaf9111cf83269dc111248" upstream="rocko"/>
-  <project name="meta-toradex-demos.git" path="layers/meta-toradex-demos" remote="tdx" revision="c73893a3377ebb557b0fb41f75b26dff40da4442" upstream="rocko">
     <copyfile dest="export" src="buildconf/export"/>
   </project>
   <project name="meta-toradex-nxp.git" path="layers/meta-toradex-nxp" remote="tdx" revision="dcb75200b15086bcd69f7ff396da7caf413ffb93" upstream="rocko"/>
